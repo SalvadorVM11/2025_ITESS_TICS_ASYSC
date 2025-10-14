@@ -1,1 +1,1 @@
-# 2025_ITESS_TICS_ASYSC
+# Scripts de Python - ITESS
